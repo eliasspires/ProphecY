@@ -1,2 +1,1 @@
-# ProphecY
-Agente de Treinamento Completo é uma proposta inovadora que visa integrar ciência, tecnologia e prática profissional para otimizar a performance esportiva de forma segura, baseada em evidências e com governança multidisciplinar.
+Agente de Treinamento Completo é uma proposta inovadora que visa integrar ciência, tecnologia e prática profissional para otimizar a performance esportiva de forma segura, baseada em evidências e com governança multidisciplinar. O projeto parte de um "mapa completo" do treinamento esportivo, estruturado em quinze níveis — do molecular ao tecnológico — e sintetizado em cinco grandes perguntas sobre energia, estrutura, movimento, controle e adaptação. O objetivo central é criar uma arquitetura de conhecimento e um sistema operacional.
