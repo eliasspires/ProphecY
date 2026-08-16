@@ -1,5 +1,7 @@
 O projeto ProphecY apresenta a proposta do Agente de Treinamento Completo, uma ferramenta tecnológica desenhada para integrar a ciência do esporte à prática profissional de alto rendimento. Este sistema híbrido organiza o conhecimento em quinze níveis multidisciplinares, abrangendo desde a fisiologia até a análise de dados, com o objetivo de fundamentar a tomada de decisão de treinadores e equipes. A arquitetura da plataforma prioriza a segurança ética, exigindo que recomendações críticas sejam validadas por especialistas humanos e baseadas em diretrizes de instituições internacionais renomadas. Através de um monitoramento multivariado, o agente auxilia no controle de cargas de treino, bem-estar e prevenção de lesões, garantindo rastreabilidade total das informações. Em suma, a iniciativa busca otimizar a performance esportiva por meio de um sistema operacional inteligente que une evidências científicas rigorosas à colaboração entre diferentes áreas da saúde.
 
+PROJETO: https://notebook.google.com/notebook/480df606-ff11-4088-9c0f-3b893e221afd
+
 FONTES: 
 https://arxiv.org/abs/2510.15983
 https://pubmed.ncbi.nlm.nih.gov/37752011/
