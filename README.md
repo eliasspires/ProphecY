@@ -31,8 +31,8 @@ Hierarquia de Decisão e Alertas de Segurança: O sistema é programado para pri
 . Quando variáveis de um atleta ultrapassam limiares de segurança (como picos perigosos de carga ou sinais de REDs), o sistema dispara alertas automáticos que exigem intervenção humana imediata e reduzem a autonomia das recomendações automatizadas
 
 
-P:Como a IA explicável ajuda o médico?
-R:A Inteligência Artificial Explicável (XAI) ajuda o médico ao transformar modelos complexos de "caixa-preta" em sistemas transparentes, cujas conclusões podem ser compreendidas, validadas e auditadas por humanos
+P: Como a IA explicável ajuda o médico?
+R: A Inteligência Artificial Explicável (XAI) ajuda o médico ao transformar modelos complexos de "caixa-preta" em sistemas transparentes, cujas conclusões podem ser compreendidas, validadas e auditadas por humanos
 . No contexto clínico e esportivo, os benefícios fundamentais da XAI incluem:
 Aumento da Confiança e Transparência: A XAI mitiga o ceticismo em relação à adoção de tecnologias de IA em ambientes de alto risco, como a saúde e o esporte de elite, ao fornecer explicações claras sobre como as decisões foram tomadas e quais variáveis foram consideradas
 . Sistemas de suporte à decisão clínica explicáveis (XDSS) permitem que o médico entenda o racional por trás de uma recomendação, facilitando sua aceitação e uso seguro
@@ -51,8 +51,8 @@ Colaboração Humano-IA: Em vez de substituir o médico, a XDSS promove uma rela
 .
 
 
-P:Como a IA ajuda a identificar talentos no futebol?
-R:A Inteligência Artificial (IA) está revolucionando a identificação de talentos e o recrutamento no futebol ao permitir a análise de vastos volumes de dados que superam a capacidade humana de processamento
+P: Como a IA ajuda a identificar talentos no futebol?
+R: A Inteligência Artificial (IA) está revolucionando a identificação de talentos e o recrutamento no futebol ao permitir a análise de vastos volumes de dados que superam a capacidade humana de processamento
 . De acordo com as fontes, a IA auxilia nesse processo das seguintes formas:
 Análise Automatizada de Vídeo e Métricas: Sistemas de IA analisam milhares de horas de filmagens e métricas de desempenho para identificar talentos promissores precocemente em seu desenvolvimento
 . Isso permite que os clubes encontrem jogadores que poderiam passar despercebidos pelos métodos tradicionais de observação
